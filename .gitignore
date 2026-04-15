@@ -1,2 +1,3 @@
-.env
-env
+.chrome-profile
+.chrome-profile-fallback
+node_modules
